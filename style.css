@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.slideshow{
+    background-image: url(./images/slideshow/team-meeting-renewable-energy-project.jpeg);
+    height: 100vh;
+    width: 100%;
+    margin-bottom: 70px;
+}
+.navbar a{
+    text-decoration: none;
+    color: gray;
+    align-items: center;
+}
+.navbar a:hover{
+    color: red;
+    
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    width: 100% !important;
+    justify-content: space-between;
+    
+}
+.item2 :hover{
+
+    color: brown !important;
+}
+.sign:hover{
+    color: red;
+}
+.retail{
+    background-color: rgb(240, 247, 250);
+}
+.explore{
+    text-decoration: none;
+    color: gray;
+}
+.expore:hover{
+    color: red;
+}
+.site{
+    text-decoration: none;
+}
